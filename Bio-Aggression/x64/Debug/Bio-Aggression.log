@@ -1,3 +1,6 @@
 ﻿  Bio-Aggression.cpp
-C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\Bio-Aggression.cpp(16,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\Bio-Aggression.cpp(11,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\Bio-Aggression.cpp(18,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\Bio-Aggression.cpp(27,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\Bio-Aggression.cpp(39,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Bio-Aggression.vcxproj -> C:\Users\Brand\Desktop\ParallelProgram-Bio-Aggression\Bio-Aggression\x64\Debug\Bio-Aggression.exe
